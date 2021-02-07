@@ -1,4 +1,8 @@
 # ElectroMania_Electrothon-3.0
+
+Links to DataSets:
+1. Weather Conditions: https://www.kaggle.com/sobhanmoosavi/us-accidents/download
+
 Our project name is Road Accident Predictor. 
 The primary requirement of our project is to collect the dataset and then observe the features which affect the severity of accidents
 Then we used supervised learning i.e. Classification to train our model.

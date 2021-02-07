@@ -14,4 +14,4 @@ This model's target customers are the automobile companies as this model can be 
 app.
 The user has nothing to do because everything will be done by our model including the input of current location and current weather.
 And finally our model is ready to be the product.
-Dataset Link:
+
